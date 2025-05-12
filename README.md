@@ -15,8 +15,8 @@ Repositório com resoluções de problemas de grafos do [LeetCode](https://leetc
 |Nome | Dificuldade | Código |
 | -- | -- | -- |
 | [2203. Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/description/) | Hard | [Código](./exercices/2203_hard/README.md) |
-| -- | -- | -- |
-| -- | -- | -- |
+| [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/) | Hard | [Código](./exercices/1489_hard/README.md) | 
+| [3112. Minimum Time to Visit Disappearing Nodes](https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/description/) | Medium | [Código](./exercices/3112_medium/README.md) |
 
 ## Apresentação
 **Link da apresentação:** [Apresentação]()
