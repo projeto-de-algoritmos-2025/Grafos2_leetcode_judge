@@ -1,4 +1,4 @@
-# [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/description/)
+# [3112. Minimum Time to Visit Disappearing Nodes](https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/description/)
 
 Calcule o menor tempo para alcançar cada nó a partir do nó 0 antes que ele desapareça.
 
