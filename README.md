@@ -14,7 +14,7 @@ Repositório com resoluções de problemas de grafos do [LeetCode](https://leetc
 ## Exercicios
 |Nome | Dificuldade | Código |
 | -- | -- | -- |
-| -- | -- | -- |
+| [2203. Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/description/) | Hard | [Código](./exercices/2203_hard/README.md) |
 | -- | -- | -- |
 | -- | -- | -- |
 
