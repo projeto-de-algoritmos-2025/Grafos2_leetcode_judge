@@ -1,6 +1,6 @@
-# [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)
+# [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)
 
-Dada a propriedade `root` de uma árvore binária, retorne a soma máxima de qualquer caminho não vazio.
+O exercício pede para identificar, em um grafo ponderado, quais arestas são críticas (obrigatórias em toda MST) e quais são pseudo-críticas (podem estar em alguma MST). A saída deve ser uma lista com os índices das arestas críticas e pseudo-críticas.
 
 # Lógica da Solução 
 
