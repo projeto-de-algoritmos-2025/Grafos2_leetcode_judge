@@ -8,6 +8,6 @@ O código utiliza o algoritmo de Kruskal com estrutura de união e busca (DSU) p
 
 # Submissão
 
-![alt text](/exercices/assets/ex_1489.jpg)
+![alt text](/assets/ex_1489.jpg)
 
 # [Código](./critical-pseudo-critical-edges.cpp)

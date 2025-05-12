@@ -8,6 +8,6 @@ Para resolver o problema, usamos o algoritmo de Dijkstra para encontrar o menor 
 
 # Submissão
 
-![alt text](/exercices/assets/ex_3112.jpg)
+![alt text](/assets/ex_3112.jpg)
 
 # [Código](./minimum_time.cpp)
