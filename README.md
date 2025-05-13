@@ -19,7 +19,7 @@ Repositório com resoluções de problemas de grafos do [LeetCode](https://leetc
 | [3112. Minimum Time to Visit Disappearing Nodes](https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/description/) | Medium | [Código](./exercices/3112_medium/README.md) |
 
 ## Apresentação
-**Link da apresentação:** [Apresentação]()
+**Link da apresentação:** [Apresentação](https://youtu.be/RL1BTn8bEvU)
 
 ## Uso 
 Para executar o trabalho basta abrir o link do exercício e copiar e colar o código. Utilize a interface para testar os códigos com os testcases existentes ou personalize-os.
